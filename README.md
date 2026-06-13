@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ My Stack
+###  My Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rihanalaviny&show_icons=true&theme=dark&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&include_all_commits=true&count_private=true" alt="GitHub stats" />
@@ -52,7 +52,6 @@
 
 ---
 
-### 🐍 Contribution Snake
 
 <div align="center">
   <picture>
