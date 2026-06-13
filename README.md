@@ -10,7 +10,7 @@
 
 ---
 
-### 🌼 Connect with me
+### 💫 Connect with me
 
 <p align="left">
   <a href="mailto:rhianalaviny@gmail.com">
@@ -63,4 +63,4 @@
 
 ---
 
-<p align="center">🌼 Obrigada pela visita ao meu perfil 🌼</p>
+<p align="center">💫 Obrigada pela visita 💫</p>
